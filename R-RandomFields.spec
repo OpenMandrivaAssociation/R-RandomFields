@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.0.66
-Release:          1
+Release:          2
 Summary:          Simulation and Analysis of Random Fields
 Group:            Sciences/Mathematics
 License:          GPL
