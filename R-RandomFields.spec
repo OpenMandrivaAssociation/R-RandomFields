@@ -10,6 +10,10 @@ License:          GPL
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/RandomFields_3.0.10.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
+BuildRequires: R-RandomFields
+Requires: R-RandomFields
+BuildRequires: R-sp
+Requires: R-sp
 BuildRequires:    blas-devel
 BuildRequires:    lapack-devel
 
