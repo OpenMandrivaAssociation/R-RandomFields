@@ -7,7 +7,7 @@ Release:          3
 Summary:          Simulation and Analysis of Random Fields
 Group:            Sciences/Mathematics
 License:          GPL
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/RandomFields_2.0.66.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    blas-devel
